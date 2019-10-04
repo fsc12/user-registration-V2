@@ -14,6 +14,10 @@ import org.springframework.stereotype.Service;
 
 import com.ewolff.user_registration.domain.User;
 
+/**
+* Kommentar
+*/
+
 @Service
 public class RegistrationService {
 
